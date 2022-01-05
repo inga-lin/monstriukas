@@ -1,0 +1,40 @@
+body{
+	background-color: red;
+}
+
+main{
+	background-color:  rgb(255, 255, 255);
+	text-align: center;
+	width: 100%;
+}
+
+.oh{
+	background-color: red;
+}
+
+h1{
+	color: rgb(255, 255, 255);
+	font-size: 80px;
+
+}
+
+.search{
+	background-color: red;
+	margin-top: -30px;
+}
+input{
+	width: 30%;
+	padding: 10px;
+}
+
+button{
+	background-color: rgb(9, 172, 18);
+	font-size: 20px;
+	padding: 10px 20px;
+	border-radius: 10px;
+}
+img{
+	background-color: red;
+	width: 35%;
+	padding-top: 30px;
+}
