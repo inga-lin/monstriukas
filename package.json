@@ -1,0 +1,19 @@
+{
+  "name": "monstriukas",
+  "version": "1.0.0",
+  "description": "monstriuko projektas",
+  "main": "index.js",
+  "scripts": {
+    "dev": "live-server --port=3000 --host=localhost",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "HTML",
+    "CSS"
+  ],
+  "author": "INGA <inga.lingiene12@gmail.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  }
+}
